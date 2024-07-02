@@ -35,6 +35,9 @@ Centroid and Farthest Point: Calculates the centroid and the farthest point of t
 Draw Circles: Draws circles on detected points.
 Manage Image Operations: Manages the main image processing operations.
 Main Function: Captures video and processes frames.
+==
+
+
 Türkçe
 Bu betik, OpenCV kullanarak canlı webcam akışından el hareketlerini tanır. Elin hareketlerini takip eder ve el konturunun en uzak noktasını belirler.
 
